@@ -1,5 +1,4 @@
 # NextLevelWeek-2
-Projeto ( Open Source ) desenvolvido na NextLevelWeek (2.0) da Rocketseat utilizando TypeScript, Node, React e React Native.
 
 <h1 align=center>
   <img src="assets/img/Banner.PNG" alt="Proffy Banner"/>
@@ -12,7 +11,9 @@ Projeto ( Open Source ) desenvolvido na NextLevelWeek (2.0) da Rocketseat utiliz
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
   </a>
   
-  ![Developer][developer]
+  <a href="https://www.linkedin.com/in/luiz-carlos-vilela"> 
+    <img src="https://img.shields.io/badge/Developer-Luiz%20Carlos-brightgreen?style=flat&logo=appveyor" alt="Developer link" />
+  </a>
 
 </div>
 
@@ -24,7 +25,6 @@ Projeto ( Open Source ) desenvolvido na NextLevelWeek (2.0) da Rocketseat utiliz
 
 <!-- Badges -->
 
-[developer]: https://img.shields.io/badge/Developer-Luiz%20Carlos-brightgreen?style=flat&logo=appveyor
 
 [node_version_badge]: https://img.shields.io/badge/node-12.17.0-green
 
