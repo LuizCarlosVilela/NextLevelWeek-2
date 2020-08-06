@@ -14,3 +14,25 @@ Projeto ( Open Source ) desenvolvido na NextLevelWeek (2.0) da Rocketseat utiliz
 
 </div>
 
+
+
+<!-- Website Links -->
+
+[rocketseat_site]: https://rocketseat.com.br/
+
+<!-- Badges -->
+
+[github_issues_badge]: https://img.shields.io/github/issues/marcospbrandao/ecoleta?color=green
+
+[repository_license_badge]: https://img.shields.io/github/license/marcospbrandao/ecoleta
+
+[node_version_badge]: https://img.shields.io/badge/node-12.17.0-green
+
+[npm_version_badge]: https://img.shields.io/badge/npm-6.14.4-red
+
+[web_react_badge]: https://img.shields.io/badge/web-react-blue
+
+[mobile_react-native_badge]: https://img.shields.io/badge/mobile-react%20native-blueviolet
+
+[server_nodejs_badge]: https://img.shields.io/badge/server-nodejs-important
+
