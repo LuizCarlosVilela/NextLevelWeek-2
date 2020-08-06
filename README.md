@@ -7,10 +7,12 @@ Projeto ( Open Source ) desenvolvido na NextLevelWeek (2.0) da Rocketseat utiliz
 
 <div align="center">
 
-![GitHub issues][github_issues_badge] ![GitHub][repository_license_badge] ![Node_Badge][node_version_badge] ![Npm_Badge][npm_version_badge] ![React_Badge][web_react_badge] ![React_Native_Badge][mobile_react-native_badge] ![NodeJS_Badge][server_nodejs_badge] [![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.png?v=101)](https://github.com/ellerbrock/typescript-badges/)
+![Node_Badge][node_version_badge] ![Npm_Badge][npm_version_badge] ![React_Badge][web_react_badge] ![React_Native_Badge][mobile_react-native_badge] ![NodeJS_Badge][server_nodejs_badge] [![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.png?v=101)](https://github.com/ellerbrock/typescript-badges/)
   <a href="https://rocketseat.com.br">
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
   </a>
+  
+  ![Developer][developer]
 
 </div>
 
@@ -22,9 +24,7 @@ Projeto ( Open Source ) desenvolvido na NextLevelWeek (2.0) da Rocketseat utiliz
 
 <!-- Badges -->
 
-[github_issues_badge]: https://img.shields.io/github/issues/marcospbrandao/ecoleta?color=green
-
-[repository_license_badge]: https://img.shields.io/github/license/marcospbrandao/ecoleta
+[developer]: https://img.shields.io/badge/Developer-Luiz%20Carlos-brightgreen?style=flat&logo=appveyor
 
 [node_version_badge]: https://img.shields.io/badge/node-12.17.0-green
 
