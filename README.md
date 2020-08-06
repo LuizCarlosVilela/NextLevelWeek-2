@@ -1,9 +1,9 @@
 
-### ***Next Level Week (2.0)***
+# ***Next Level Week (2.0)*** - ***[Rocketseat][rocketseat_site]***
 
-<h1 align=center>
+<h2 align=center>
   <img src="assets/img/Banner.PNG" alt="Proffy Banner"/>
-</h1>
+</h2>
 
 <div align="center">
 
