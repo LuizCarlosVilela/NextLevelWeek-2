@@ -1,9 +1,9 @@
 # NextLevelWeek-2
 Projeto ( Open Source ) desenvolvido na NextLevelWeek (2.0) da Rocketseat utilizando TypeScript, Node, React e React Native.
 
-<div align=center>
-  <img src="assets/img/Capturar.PNG" alt="Proffy Banner"/>
-</div>
+<h1 align=center>
+  <img src="assets/img/Banner.PNG" alt="Proffy Banner"/>
+</h1>
 
 <div align="center">
 
