@@ -1,4 +1,6 @@
-# ***Next Level Week (2.0)***
+<h1 align=center> 
+  ***Next Level Week (2.0)***
+</h1> 
 
 <h1 align=center>
   <img src="assets/img/Banner.PNG" alt="Proffy Banner"/>
