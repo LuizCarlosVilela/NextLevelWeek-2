@@ -1,0 +1,3 @@
+[submodule "nlw-2-web"]
+	path = nlw-2-web
+	url = https://github.com/LuizCarlosVilela/nlw-2-web
