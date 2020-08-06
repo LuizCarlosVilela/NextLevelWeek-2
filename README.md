@@ -12,7 +12,7 @@
   </a>
   
   <a href="https://www.linkedin.com/in/luiz-carlos-vilela" target="_blank"> 
-    <img src="https://img.shields.io/badge/Developer-Luiz%20Carlos-brightgreen?style=flat&logo=appveyor" alt="Developer link" />
+    <img src="https://img.shields.io/badge/Developer-Luiz%20Carlos-brightgreen?style=flat&logo=Linkedin&logoColor=white" alt="Developer link" />
   </a>
 
 </div>
