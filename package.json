@@ -1,0 +1,17 @@
+{
+  "name": "Proffy",
+  "version": "1.0.0",
+  "description": "Projeto para criação de uma plataforma de estudos online",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuizCarlosVilela/NextLevelWeek-2.git"
+  },
+  "keywords": [],
+  "author": "Luiz Carlos Vilela dos Santos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LuizCarlosVilela"
+  },
+  "homepage": "https://github.com/LuizCarlosVilela/NextLevelWeek-2#readme"
+}
