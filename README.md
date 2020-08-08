@@ -36,7 +36,7 @@
   - **[React Dropzone][react_dropzone]**
 
 
-  \* Veja o arquivo <kbd>[package.json](./sources/website/package.json)</kbd>
+  \* Veja o json do fron-end do webSite <kbd>[package.json](https://github.com/LuizCarlosVilela/nlw-2-web/blob/master/package.json)</kbd>
 
 #### **Server** ([NodeJS][node] + [TypeScript][typescript])
 
@@ -50,33 +50,30 @@
   - **[Celebrate][celebrate]**
   - **[Joi][joi]**
 
-  \* Veja o arquivo <kbd>[package.json](./sources/server/package.json)</kbd>
+  \* Veja o json do Back-end <kbd>[package.json](https://github.com/LuizCarlosVilela/nlw-2-backend/blob/master/package.json)</kbd>
 
 #### **Mobile** ([React Native][react_native] + [TypeScript][typescript])
 
   - **[Expo][expo]**
   - **[Expo Google Fonts][expo_google_fonts]**
   - **[React Navigation][react_navigation]**
-  - **[React Native Maps][react_native_maps]**
   - **[Expo Constants][expo_constants]**
   - **[React Native SVG][react_native_svg]**
   - **[Axios][axios]**
   - **[Expo Location][expo_location]**
   - **[Expo Mail Composer][expo_mail_composer]**
 
-  \* Veja o arquivo <kbd>[package.json](./sources/mobile/package.json)</kbd>
+  \* Veja o json do front-end mobile <kbd>[package.json](https://github.com/LuizCarlosVilela/nlw-2-mobile/blob/master/package.json)</kbd>
 
 #### **Utilitários**
 
-- Protótipo: **[Figma](https://www.figma.com/)** &rarr; **<kbd>[Protótipo (Ecoleta)](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta)</kbd>**
-- API: **[IBGE API][ibge_api]** &rarr; **<kbd>[API de UFs][ibge_api_ufs]</kbd>**, **<kbd>[API de Municípios][ibge_api_municipios]</kbd>** 
-- Maps: **[Leaflet][leaflet]**
+- Protótipo: **[Figma](https://www.figma.com/)** &rarr; **<kbd>[Protótipo (Proffy)](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web/)</kbd>**
 - Editor: **[Visual Studio Code][vscode]** &rarr; Extensions: **<kbd>[SQLite][vscode_sqlite_extension]</kbd>**
 - Markdown: **[StackEdit][stackedit]**, **<kbd>[Markdown Emoji][markdown_emoji]</kbd>**
 - Commit Conventional: **[Commitlint][commitlint]**
 - Teste de API: **[Insomnia][insomnia]**
 - Ícones: **[Feather Icons][feather_icons]**, **[Font Awesome][font_awesome]**
-- Fontes: **[Ubuntu][font_ubuntu]**, **[Roboto][font_roboto]**
+- Fontes: **[Archivo][font_archivo]**, **[Poopins][font_poopins]**
 
 <!-- Website Links -->
 
@@ -84,7 +81,7 @@
 
 <!-- Badges -->
 
-[mit]: https://img.shields.io/badge/licenses-MIT-brightgreen
+[mit]: https://img.shields.io/badge/license-MIT-brightgreen
 
 [github_issues_badge]: https://img.shields.io/github/issues/marcospbrandao/ecoleta?color=green
 
@@ -168,9 +165,9 @@
 
 [expo_mail_composer]: https://docs.expo.io/versions/latest/sdk/mail-composer/
 
-[font_roboto]: https://fonts.google.com/specimen/Roboto
+[font_archivo]: https://fonts.google.com/specimen/Archivo
 
-[font_ubuntu]: https://fonts.google.com/specimen/Ubuntu
+[font_poopins]: https://fonts.google.com/specimen/Poppins
 
 [font_awesome]: https://fontawesome.com/
 
