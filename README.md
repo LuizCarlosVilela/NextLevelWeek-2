@@ -1,9 +1,9 @@
 
 # ***Next Level Week (2.0)*** - ***[Rocketseat][rocketseat_site]***
 
-<h2 align=center>
+<h1 align=center>
   <img src="assets/img/Banner.PNG" alt="Proffy Banner"/>
-</h2>
+</h1>
 
 <div align="center">
 
@@ -19,7 +19,7 @@
 </div>
 
 <h2 align=center>
-  <img src="assets/img/TelaWeb-Mobile.png" alt="Proffy Banner"/>
+  <img src="assets/img/TelaWeb-Mobile.png" alt="Tela Web-Mobile"/>
 </h2>
 
 
