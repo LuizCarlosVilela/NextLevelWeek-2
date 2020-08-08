@@ -18,6 +18,10 @@
 
 </div>
 
+<h2 align=center>
+  <img src="assets/img/TelaWeb-Mobile.png" alt="Proffy Banner"/>
+</h2>
+
 
 
 <!-- Website Links -->
