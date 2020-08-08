@@ -1,5 +1,5 @@
 
-# ***Next Level Week (2.0)*** - ***[Rocketseat][rocketseat_site]***
+# ***Luiz Carlos V. - Proffy***
 
 <h1 align=center>
   <img src="assets/img/Banner.PNG" alt="Proffy Banner"/>
@@ -35,7 +35,7 @@
   - **[React Leaflet][react_leaflet]**
   - **[React Dropzone][react_dropzone]**
 
-  Arquivo json do fron-end do webSite<kbd>[package.json](https://github.com/LuizCarlosVilela/nlw-2-web/blob/master/package.json)</kbd>
+  Arquivo json do fron-end do webSite <kbd>[package.json](https://github.com/LuizCarlosVilela/nlw-2-web/blob/master/package.json)</kbd>
 
 #### **Server** ([NodeJS][node] + [TypeScript][typescript])
 
@@ -66,7 +66,7 @@
 
 #### **Utilitários**
 
-- Protótipo: **[Figma](https://www.figma.com/)** &rarr; **<kbd>[Protótipo (Proffy)](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web/)</kbd>**
+- Protótipo: **[Figma](https://www.figma.com/)** &rarr; **<kbd>[Protótipo (Proffy)](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web/duplicate)</kbd>**
 - Editor: **[Visual Studio Code][vscode]** &rarr; Extensions: **<kbd>[SQLite][vscode_sqlite_extension]</kbd>**
 - Markdown: **[StackEdit][stackedit]**, **<kbd>[Markdown Emoji][markdown_emoji]</kbd>**
 - Commit Conventional: **[Commitlint][commitlint]**
