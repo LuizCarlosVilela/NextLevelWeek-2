@@ -35,8 +35,7 @@
   - **[React Leaflet][react_leaflet]**
   - **[React Dropzone][react_dropzone]**
 
-
-  \* Veja o json do fron-end do webSite <kbd>[package.json](https://github.com/LuizCarlosVilela/nlw-2-web/blob/master/package.json)</kbd>
+  Arquivo json do fron-end do webSite<kbd>[package.json](https://github.com/LuizCarlosVilela/nlw-2-web/blob/master/package.json)</kbd>
 
 #### **Server** ([NodeJS][node] + [TypeScript][typescript])
 
@@ -50,7 +49,7 @@
   - **[Celebrate][celebrate]**
   - **[Joi][joi]**
 
-  \* Veja o json do Back-end <kbd>[package.json](https://github.com/LuizCarlosVilela/nlw-2-backend/blob/master/package.json)</kbd>
+  Arquivo json do Back-end <kbd>[package.json](https://github.com/LuizCarlosVilela/nlw-2-backend/blob/master/package.json)</kbd>
 
 #### **Mobile** ([React Native][react_native] + [TypeScript][typescript])
 
@@ -63,7 +62,7 @@
   - **[Expo Location][expo_location]**
   - **[Expo Mail Composer][expo_mail_composer]**
 
-  \* Veja o json do front-end mobile <kbd>[package.json](https://github.com/LuizCarlosVilela/nlw-2-mobile/blob/master/package.json)</kbd>
+  Arquivo json do front-end mobile <kbd>[package.json](https://github.com/LuizCarlosVilela/nlw-2-mobile/blob/master/package.json)</kbd>
 
 #### **Utilitários**
 
@@ -107,12 +106,6 @@
 
 [leaflet]: https://react-leaflet.js.org/en/
 
-[ibge_api]: https://servicodados.ibge.gov.br/api/docs/localidades?versao=1
-
-[ibge_api_ufs]: https://servicodados.ibge.gov.br/api/docs/localidades?versao=1#api-UFs-estadosGet
-
-[ibge_api_municipios]: https://servicodados.ibge.gov.br/api/docs/localidades?versao=1#api-Municipios-estadosUFMunicipiosGet
-
 [vscode]: https://code.visualstudio.com/
 
 [react_native]: http://www.reactnative.com/
@@ -155,8 +148,6 @@
 
 [react_navigation]: https://reactnavigation.org/
 
-[react_native_maps]: https://github.com/react-native-community/react-native-maps
-
 [expo_constants]: https://docs.expo.io/versions/latest/sdk/constants/
 
 [react_native_svg]: https://github.com/react-native-community/react-native-svg
@@ -178,7 +169,7 @@
 [joi]: https://github.com/hapijs/joi
 
 [react_dropzone]: https://github.com/react-dropzone/react-dropzone
-"
+
 [asdf]: https://github.com/asdf-vm/asdf
 
 [yarn]: https://classic.yarnpkg.com/en/docs/install/#debian-stable
