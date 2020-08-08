@@ -7,7 +7,7 @@
 
 <div align="center">
 
-![Node_Badge][node_version_badge] ![Npm_Badge][npm_version_badge] ![React_Badge][web_react_badge] ![React_Native_Badge][mobile_react-native_badge] ![NodeJS_Badge][server_nodejs_badge] [![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.png?v=101)](https://github.com/ellerbrock/typescript-badges/)
+![MIT][mit] ![Node_Badge][node_version_badge] ![Npm_Badge][npm_version_badge] ![React_Badge][web_react_badge] ![React_Native_Badge][mobile_react-native_badge] ![NodeJS_Badge][server_nodejs_badge] [![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.png?v=101)](https://github.com/ellerbrock/typescript-badges/)
   <a href="https://rocketseat.com.br" target="_blank">
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
   </a>
@@ -83,6 +83,8 @@
 [rocketseat_site]: https://rocketseat.com.br/
 
 <!-- Badges -->
+
+[mit]: https://img.shields.io/badge/licenses-MIT-brightgreen
 
 [github_issues_badge]: https://img.shields.io/github/issues/marcospbrandao/ecoleta?color=green
 
@@ -179,7 +181,7 @@
 [joi]: https://github.com/hapijs/joi
 
 [react_dropzone]: https://github.com/react-dropzone/react-dropzone
-
+"
 [asdf]: https://github.com/asdf-vm/asdf
 
 [yarn]: https://classic.yarnpkg.com/en/docs/install/#debian-stable
