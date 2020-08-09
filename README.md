@@ -23,6 +23,11 @@
 </h2>
 
 
+## **:rocket: OBJETIVO**
+
+O projeto tem como finalidade **estabelecer uma conexão** entre os **professores** (Proffys) e os **alunos que desejam um professor com qualificação para dar orientações e aulas sobre determinada matéria**. Solucionando um **problema de comunicação** entre **professores que queiram dar aulas**, e **alunos que desejam um professor para orientar** nos estudos em diversas áreas.
+
+
 ## **:computer: TECNOLOGIAS**
 
 
