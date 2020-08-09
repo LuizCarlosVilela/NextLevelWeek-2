@@ -180,37 +180,43 @@ $ expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
 
 **\* Lembre de inserir no arquivo `.env` o IP exato que foi gerado pelo seu mobile após utilizar o comando `npm run start`.**
 
-## **:octocat: COMO CONTRIBUIR**
-  
-  - Verifique as **[Issues](https://github.com/marcospbrandao/ecoleta/projects/1)** que estão abertas e se já não existe alguma com a sua feature;
-  - Abra uma **Issue** com o nome e descrição da sua feature e assine com o seu usuário informando que irá fazê-la;
-  - Faça um **[fork](https://help.github.com/pt/github/getting-started-with-github/fork-a-repo)** do repositório;
-  - Entre no sua página do GitHub e faça um **clone** do seu **fork**;
-  - Crie uma *branch* com o nome da sua feature: `git chechout -b feat/minhaFeature`;
-  - Faça as alterações necessárias no código ou na documentação;
-  - Instale as dependências do *commitlint* na raíz do projeto para a verificação dos commits: `npm install` ou `yarn`;
-  - Faça o *commit* das suas alterações seguindo as [convenções de commit](https://www.conventionalcommits.org/pt-br/v1.0.0-beta.4/), adicione na descrição o id da sua Issue em parênteses e lembre de fechar a sua Issue com o id no rodapé do commit:
+## **:star2: AGRADECIMENTOS**
 
-  ```
-    <tipo>(escopo opcional): <descrição> (#x)
+<div align=center>
 
-    [corpo do commit]
+<table style="width:100%">
+  <tr align=center>
+    <th><strong>Next Level Week</strong></th>
+    <th><strong>Rocketseat</strong></th>
+    <th><strong>diego3g</strong></th>
+    <th><strong>maykbrito</strong></th>
+  </tr>
+  <tr align=center>
+    <td>
+      <a href="https://nextlevelweek.com/">
+        <img width="200" src="https://user-images.githubusercontent.com/42815135/83976057-f0352c00-a8cd-11ea-88da-22ff672ce842.png">
+      </a>
+    </td>
+    <td>
+      <a href="https://rocketseat.com.br/">
+        <img width="200" height="180" src="https://user-images.githubusercontent.com/38081852/83981650-1e2e6680-a8f6-11ea-9f42-6df8fe809e4b.png">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/diego3g">
+        <img width="200" height="180" src="https://user-images.githubusercontent.com/38081852/83981712-b7f61380-a8f6-11ea-9099-bd3677e97e39.jpg">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/maykbrito">
+        <img width="200" height="180" src="https://user-images.githubusercontent.com/38081852/83981753-1de29b00-a8f7-11ea-93cf-23d2ff65fa5c.png">
+      </a>
+    </td>
+  </tr>
+</table>
 
-    Close #x
-  ```
-  Exemplo:
-  ```sh
-    feat: adicionado componente para tal coisa (#52)
+</div>
 
-    Foi adicionado um componente para tal coisa com o objetivo de melhorar tal coisa, deixando o projeto de tal maneira.
-
-    Close #52
-  ```
-  - Faça um *push* para a sua *branch*: `git push origin feat/minhaFeature`;
-  - Agora é só abrir um *pull request* no repositório que você fez o *fork* e assim que acontecer o *merge* sua Issue será fechada e suas alterações irão fazer parte do projeto;
-  - Depois que o *merge* da sua pull request for feito, você pode deletar a sua *branch*.
-
-  \* **Obrigado por contribuir!** ❤️ :facepunch: :blush:
 
 
 <!-- Website Links -->
