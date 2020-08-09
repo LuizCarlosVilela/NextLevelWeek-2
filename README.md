@@ -41,7 +41,7 @@ O projeto tem como finalidade <strong>estabelecer uma conexão</strong> entre os
 ## ***:computer: TECNOLOGIAS***
 
 
-#### ***Website ([React][react] + [TypeScript][typescript])***
+#### ***:pager: Website ([React][react] + [TypeScript][typescript])***
 
   - **[React Router Dom][react_router_dom]**
   - **[React Icons][react_icons]**
@@ -52,7 +52,7 @@ O projeto tem como finalidade <strong>estabelecer uma conexão</strong> entre os
 
   Arquivo json do fron-end do webSite <kbd>[package.json](https://github.com/LuizCarlosVilela/nlw-2-web/blob/master/package.json)</kbd>
 
-#### ***Server ([NodeJS][node] + [TypeScript][typescript])***
+#### ***:floppy_disk:	 Server ([NodeJS][node] + [TypeScript][typescript])***
 
   - **[Express][express]**
   - **[CORS][cors]**
@@ -63,7 +63,7 @@ O projeto tem como finalidade <strong>estabelecer uma conexão</strong> entre os
 
   Arquivo json do Back-end <kbd>[package.json](https://github.com/LuizCarlosVilela/nlw-2-backend/blob/master/package.json)</kbd>
 
-#### ***Mobile*** ([React Native][react_native] + [TypeScript][typescript])
+#### ***:iphone: Mobile*** ([React Native][react_native] + [TypeScript][typescript])
 
   - **[Expo][expo]**
   - **[Expo Google Fonts][expo_google_fonts]**
