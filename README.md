@@ -22,10 +22,11 @@
   <img src="assets/img/TelaWeb-Mobile.png" alt="Tela Web-Mobile"/>
 </h2>
 
-
 ## **:rocket: OBJETIVO**
 
-O projeto tem como finalidade **estabelecer uma conexão** entre os **professores** (Proffys) e os **alunos que desejam um professor com qualificação para dar orientações e aulas sobre determinada matéria**. Solucionando um **problema de comunicação** entre **professores que queiram dar aulas**, e **alunos que desejam um professor para orientar** nos estudos em diversas áreas.
+<p align=justify> 
+O projeto tem como finalidade <strong>estabelecer uma conexão</strong> entre os <strong>professores</strong> (Proffys) e os <strong>alunos</strong> que desejam um professor com qualificação para dar orientações e aulas sobre determinada matéria. Solucionando então um <strong>problema de comunicação</strong> entre <strong>professores</strong> que queiram dar aulas, e <strong>alunos</strong> que desejam um professor para orientar nos <strong>estudos em diversas áreas</strong>.
+</p>
 
 
 ## **:computer: TECNOLOGIAS**
@@ -73,8 +74,6 @@ O projeto tem como finalidade **estabelecer uma conexão** entre os **professore
 - Teste de API: **[Insomnia][insomnia]**
 - Ícones: **[Feather Icons][feather_icons]**, **[Font Awesome][font_awesome]**
 - Fontes: **[Archivo][font_archivo]**, **[Poopins][font_poopins]**
-
-
 
 ## **:wine_glass: COMO UTILIZAR**
 
@@ -222,7 +221,25 @@ $ expo install expo-font @expo-google-fonts/archivo @expo-google-fonts/poopins
 
 </div>
 
+## **:books: REFERÊNCIAS**
 
+- [React + TypeScript Cheat Sheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
+- [Blog Rocketseat](https://blog.rocketseat.com.br/)
+- [ReactJS](https://reactjs.org/docs/getting-started.html) | [ReactJS pt-BR](https://pt-br.reactjs.org/docs/getting-started.html)
+- [TypeScript](https://www.typescriptlang.org/docs/home.html)
+- [React Native](https://reactnative.dev/docs/getting-started)
+- [Expo](https://expo.io/learn)
+- [Knex][knex]
+- [Express](https://expressjs.com/pt-br/)
+- [Node](https://nodejs.org/en/)
+- [Celebrate](https://github.com/arb/celebrate)
+- [Joi](https://hapi.dev/module/joi/)
+
+## **:page_with_curl: LICENÇA**
+
+Este repositório está licenciado pela **MIT LICENSE**. Para mais informações detalhadas, leia o arquivo [LICENSE](./LICENSE) contido nesse repositório. 
+
+<h2 align="center">Feito com ❤️ por <a href="https://www.linkedin.com/in/luiz-carlos-vilela/">Luiz Carlos Vilela</a></h2>
 
 <!-- Website Links -->
 
@@ -323,5 +340,3 @@ $ expo install expo-font @expo-google-fonts/archivo @expo-google-fonts/poopins
 [asdf]: https://github.com/asdf-vm/asdf
 
 [yarn]: https://classic.yarnpkg.com/en/docs/install/#debian-stable
-
-
