@@ -63,7 +63,7 @@ O projeto tem como finalidade <strong>estabelecer uma conexão</strong> entre os
 
   Arquivo json do Back-end <kbd>[package.json](https://github.com/LuizCarlosVilela/nlw-2-backend/blob/master/package.json)</kbd>
 
-#### ***Mobile ([React Native][react_native] + [TypeScript][typescript]) ***
+#### ***Mobile*** ([React Native][react_native] + [TypeScript][typescript])
 
   - **[Expo][expo]**
   - **[Expo Google Fonts][expo_google_fonts]**
