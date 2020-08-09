@@ -5,7 +5,7 @@
   <img src="assets/img/Banner.PNG" alt="Proffy Banner"/>
 </h1>
 
-<div align="center">
+<div align=center>
 
 ![MIT][mit] ![Node_Badge][node_version_badge] ![Npm_Badge][npm_version_badge] ![React_Badge][web_react_badge] ![React_Native_Badge][mobile_react-native_badge] ![NodeJS_Badge][server_nodejs_badge] [![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.png?v=101)](https://github.com/ellerbrock/typescript-badges/)
   <a href="https://rocketseat.com.br" target="_blank">
@@ -17,6 +17,13 @@
   </a>
 
 </div>
+
+
+<h3 align=center>
+
+♻️ Proffy é um projeto **Open Source** desenvolvido na semana **Next Level Week (2.0)** da **[Rocketseat][rocketseat_site]** utilizando as tecnologias ***TypeScript, Node, React e React Native***.
+
+</h3>
 
 <h2 align=center>
   <img src="assets/img/TelaWeb-Mobile.png" alt="Tela Web-Mobile"/>
