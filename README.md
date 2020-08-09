@@ -1,6 +1,4 @@
 
-# ***Luiz Carlos V. - Proffy***
-
 <h1 align=center>
   <img src="assets/img/Banner.PNG" alt="Proffy Banner"/>
 </h1>
