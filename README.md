@@ -18,7 +18,6 @@
 
 </div>
 
-
 <h3 align=center>
   
 :books:
@@ -26,9 +25,11 @@ Proffy é um projeto **Open Source** desenvolvido na semana **Next Level Week (2
 
 </h3>
 
-<h2 align=center>
+<h1 align=center>
   <img src="assets/img/TelaWeb-Mobile.png" alt="Tela Web-Mobile"/>
-</h2>
+</h1>
+
+<br /><br />
 
 ## **:rocket: OBJETIVO**
 
