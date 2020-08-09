@@ -21,7 +21,7 @@
 
 <h3 align=center>
 
-♻️ Proffy é um projeto **Open Source** desenvolvido na semana **Next Level Week (2.0)** da **[Rocketseat][rocketseat_site]** utilizando as tecnologias ***TypeScript, Node, React e React Native***.
+:books: Proffy é um projeto **Open Source** desenvolvido na semana **Next Level Week (2.0)** da **[Rocketseat][rocketseat_site]** utilizando as tecnologias ***TypeScript, Node, React e React Native***.
 
 </h3>
 
