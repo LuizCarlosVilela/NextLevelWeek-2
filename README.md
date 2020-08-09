@@ -109,7 +109,7 @@ $ yarn
 Exemplos:
 ```sh
 # Instalando as dependências do commitlint:
-$ cd ./projecoleta
+$ cd ./proffy
 $ npm install
 
 # Instalando as dependências do server:
@@ -125,7 +125,7 @@ $ cd ./sources/mobile
 $ npm install
 ```
 
-Veja os arquivos **`package.json`** do <kbd>[commitlint](./package.json)</kbd>, <kbd>[server](./sources/server/package.json)</kbd>, <kbd>[website](./sources/website/package.json)</kbd> e <kbd>[mobile](./sources/mobile/package.json)</kbd>.
+Veja os arquivos **`package.json`** do <kbd>[commitlint](./package.json)</kbd>, <kbd>[server](https://github.com/LuizCarlosVilela/nlw-2-backend/blob/master/package.json)</kbd>, <kbd>[website](https://github.com/LuizCarlosVilela/nlw-2-web/blob/master/package.json)</kbd> e <kbd>[mobile](https://github.com/LuizCarlosVilela/nlw-2-mobile/blob/master/package.json)</kbd>.
 
 ### Utilizando o Server
 
@@ -143,7 +143,7 @@ $ npm run knex:migrate
 $ npm run knex:seed
 ```
 
-> Veja a parte de **scripts {}** do arquivo <kbd>[package.json](./sources/server/package.json)</kbd> para saber quais scripts estão disponíveis.
+> Veja a parte de **scripts {}** do arquivo <kbd>[package.json](https://github.com/LuizCarlosVilela/nlw-2-backend/blob/master/package.json)</kbd> para saber quais scripts estão disponíveis.
 
 ### Utilizando o Website
 
@@ -175,7 +175,7 @@ Agora, abra o aplicativo do expo e no modo **LAN** faça o scan do QRCode.
 
 Se tiver algum problema com as fontes, utilize o comando:
 ```sh
-$ expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
+$ expo install expo-font @expo-google-fonts/archivo @expo-google-fonts/poopins
 ```
 
 **\* Lembre de inserir no arquivo `.env` o IP exato que foi gerado pelo seu mobile após utilizar o comando `npm run start`.**
