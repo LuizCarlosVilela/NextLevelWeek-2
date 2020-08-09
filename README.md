@@ -194,7 +194,7 @@ $ expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
   <tr align=center>
     <td>
       <a href="https://nextlevelweek.com/">
-        <img width="200" src="https://user-images.githubusercontent.com/42815135/83976057-f0352c00-a8cd-11ea-88da-22ff672ce842.png">
+        <img width="200" src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a15e5ee3-7ba9-4aae-ad19-bd86929051f1/download.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200808%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200808T220334Z&X-Amz-Expires=86400&X-Amz-Signature=7a15de22d455cd3d55bcb53c74e72e9e592c9bac6ac6ba2546c3b3bcaa27c1fe&X-Amz-SignedHeaders=host">
       </a>
     </td>
     <td>
