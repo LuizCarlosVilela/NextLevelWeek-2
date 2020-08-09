@@ -3,7 +3,7 @@
 	url = https://github.com/LuizCarlosVilela/nlw-2-web
 [submodule "nlw-2-backend"]
 	path = nlw-2-backend
-	url = https://github.com/LuizCarlosVilela/nlw-2-backend
+	url = https://github.com/LuizCarlosVilela/nlw-2-backend#readme
 [submodule "nlw-2-mobile"]
 	path = nlw-2-mobile
 	url = https://github.com/LuizCarlosVilela/nlw-2-mobile.git
